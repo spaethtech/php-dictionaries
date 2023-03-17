@@ -1,4 +1,5 @@
 {
+    "name": "spaethtech/php-dictionaries",
     "require-dev": {
         "consolidation/robo": "^3.0"
     }
